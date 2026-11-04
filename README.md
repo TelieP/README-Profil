@@ -10,6 +10,7 @@
 - Base de données : MySQL  
 - Outils : Git, Docker, Composer
 - UI/UX 
+- Data analyst ( power BI , Python )
 
 ## 🚀 Projets principaux
 🔹 Application de Covoiturage (Symfony)  
